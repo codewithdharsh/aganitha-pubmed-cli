@@ -2,6 +2,8 @@
 
 A command-line Python tool that fetches research papers from PubMed using a search query and filters papers with at least one non-academic author (e.g., authors affiliated with pharmaceutical or biotech companies). The results are output as a CSV file.
 
+Vedio explaination:https://drive.google.com/file/d/1E-G2FKq-a5uHoGf37hhS5T3su8g4WvZ8/view?usp=drivesdk
+
 ✅ Features
 
 🔍 Accepts any valid PubMed search query
